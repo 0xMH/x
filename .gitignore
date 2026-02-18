@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.uv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# JavaScript / TypeScript / Node
+node_modules/
+.npm/
+.pnpm-store/
+dist/
+.next/
+.nuxt/
+.svelte-kit/
+
+# Rust
+target/
+Cargo.lock
+
+# Go
+bin/
+*.exe
+
+# Java / Kotlin / Scala / JVM
+*.class
+*.jar
+*.war
+target/
+.gradle/
+build/
+
+# C / C++
+*.o
+*.out
+*.a
+*.so
+*.dylib
+
+# Ruby
+.bundle/
+vendor/bundle/
+
+# Elixir / Erlang
+_build/
+deps/
+.elixir_ls/
+
+# Zig
+zig-cache/
+zig-out/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+.env
+.env.local
+.env.*.local
